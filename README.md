@@ -41,7 +41,7 @@ Desenvolvedor Full Stack focado em construir soluções web e mobile com qualida
 
 ### 🌐 Vamos nos conectar?
 
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/lucas-da-silva-trindade-0a35baxdc))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-da-silva-trindade-0a35baxdc)  
 - 💌 Email: lucassilvatrindade@hotmail.com  
 - 💻 [GitHub](https://github.com/lucasceifa)
 
