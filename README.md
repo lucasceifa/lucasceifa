@@ -100,8 +100,11 @@ Lendo: *Criando Microsserviços*, de Sam Newman.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasceifa&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasceifa&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasceifa&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasceifa&theme=default" alt="Linguagens por repositório" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lucasceifa&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
